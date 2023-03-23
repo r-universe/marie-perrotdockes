@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BlockCov"]
+	path = BlockCov
+	url = https://github.com/cran/BlockCov
+	shallow = true
+	registered = true
+[submodule "MultiVarSel"]
+	path = MultiVarSel
+	url = https://github.com/cran/MultiVarSel
+	shallow = true
+	registered = true
