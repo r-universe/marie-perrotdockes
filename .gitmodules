@@ -5,6 +5,3 @@
 [submodule "BlockCov"]
 	path = BlockCov
 	url = https://github.com/cran/BlockCov
-[submodule "MultiVarSel"]
-	path = MultiVarSel
-	url = https://github.com/cran/MultiVarSel
